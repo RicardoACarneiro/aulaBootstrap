@@ -1,2 +1,2 @@
 # aulaBootstrap
-Cusro Digital Inoovation Bootstrap
+Curso Digital Inoovation Bootstrap
